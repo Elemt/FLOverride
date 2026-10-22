@@ -19,7 +19,12 @@ FlClash / Mihomo 覆写脚本：保留机场订阅的节点，自动按地区分
 5. 安卓系统：**设置 → 网络 → 私人 DNS → 关闭**（否则 DoT 会绕过劫持）。
 6. 重启 FlClash，更新一次订阅。
 
-> 仓库是私有的，raw 链接带临时 token，不适合做远程订阅地址，所以用复制粘贴的方式。
+### 远程地址（仓库已公开）
+
+客户端支持远程脚本时，直接填以下任一地址：
+
+- GitHub Raw：`https://raw.githubusercontent.com/Elemt/FLOverride/main/flclash-override.js`
+- jsDelivr（国内更快，有缓存，更新后可能延迟几小时）：`https://cdn.jsdelivr.net/gh/Elemt/FLOverride@main/flclash-override.js`
 
 ### 检查是否生效
 
