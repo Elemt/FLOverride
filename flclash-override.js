@@ -184,7 +184,7 @@ const main = (config) => {
   // 9. Perfect-Rules icon CDN
   // ================================================================
   const iconBaseURL =
-    "https://cdn.jsdelivr.net/gh/n0de-sudo/Perfect-Rules@main/Clash/icons/";
+    "https://cdn.jsdelivr.net/gh/Elemt/Perfect-Rules@main/Clash/icons/";
   const groupIcons = {
     "一键代理": "Proxy.png",
     "国内直连": "China.png",
@@ -500,7 +500,7 @@ const main = (config) => {
   // 19. Remote Rule Provider base URL
   // ================================================================
   const ruleBaseURL =
-    "https://cdn.jsdelivr.net/gh/n0de-sudo/Perfect-Rules@main/Clash/rules/";
+    "https://cdn.jsdelivr.net/gh/Elemt/Perfect-Rules@main/Clash/rules/";
   // ================================================================
   // 20. Rule Provider factory
   // ================================================================
