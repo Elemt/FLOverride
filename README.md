@@ -69,7 +69,7 @@ GEOSITE/GEOIP private, cn   → 国内直连
 MATCH                       → 一键代理
 ```
 
-规则集来自 [n0de-sudo/Perfect-Rules](https://github.com/n0de-sudo/Perfect-Rules)，每 24 小时自动更新。
+规则集来自 [Elemt/Perfect-Rules](https://github.com/Elemt/Perfect-Rules)（fork 自 n0de-sudo/Perfect-Rules），每 24 小时自动更新。
 
 ---
 
